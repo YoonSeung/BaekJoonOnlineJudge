@@ -11,5 +11,6 @@ public class Level1_14_10172 {
 		System.out.println("( 0 )\"\"\"\\");
 		System.out.println("|\"^\"`    |");
 		System.out.println("||_/=\\\\__|");
+		
 	}
 }

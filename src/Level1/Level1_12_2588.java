@@ -16,6 +16,7 @@ public class Level1_12_2588 {
 		System.out.println((sc1*b)/10);
 		System.out.println((sc1*c)/100);
 		System.out.println(sc1*sc2);
+		
 
 		}
 }

@@ -16,6 +16,7 @@ public class Level1_6_1008 {
 		System.out.println(a-b);
 		System.out.println(a*b);
 		System.out.println(a/b);
-		System.out.println(a%b);		
+		System.out.println(a%b);	
+		
 	}
 }

@@ -18,5 +18,6 @@ public class Level1_8_10926 {
 		System.out.println((A*B)%C);
 		System.out.println(((A%C)*(B%C))%C);
 	
+		
 	}
 }

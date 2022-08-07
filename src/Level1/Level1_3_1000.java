@@ -13,5 +13,6 @@ public class Level1_3_1000 {
 		b=sc.nextInt();
 		
 		System.out.println(a+b);
+		
 	}
 }

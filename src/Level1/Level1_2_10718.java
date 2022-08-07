@@ -8,4 +8,5 @@ public class Level1_2_10718 {
 		System.out.println("강한친구 대한육군");
 		System.out.println("강한친구 대한육군");
 	}
+	
 }

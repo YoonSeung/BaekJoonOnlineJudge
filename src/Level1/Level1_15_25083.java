@@ -11,6 +11,7 @@ public class Level1_15_25083 {
 		System.out.println("   `~\\/");
 		System.out.println("      |");
 		System.out.println("      |");
+		
 
 		}
 }

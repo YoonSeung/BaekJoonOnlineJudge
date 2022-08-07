@@ -13,5 +13,6 @@ public class Level1_5_10998 {
 		b=sc.nextInt();
 		
 		System.out.println(a-b);
+		
 	}
 }

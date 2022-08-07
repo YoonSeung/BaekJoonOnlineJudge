@@ -13,5 +13,6 @@ public class Level1_9_18108 {
 		
 		System.out.println(name + "??!");
 	
+		
 	}
 }
